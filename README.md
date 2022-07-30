@@ -2,5 +2,3 @@
 Jenkins Multibranch Pipeline Example Repo 
 
 This is Development branch
-
-
