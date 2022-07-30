@@ -2,5 +2,3 @@
 Jenkins Multibranch Pipeline Example Repo 
 
 Feature Branch Created
-
-
