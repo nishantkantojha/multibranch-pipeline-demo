@@ -1,10 +1,6 @@
 pipeline {
 
-    agent {
-        node {
-            label 'Built-In Node'
-        }
-    }
+    agent any
 
     options {
         buildDiscarder logRotator( 
